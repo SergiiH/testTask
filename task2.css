@@ -1,0 +1,15 @@
+.Pagination  {
+	display: none !important;
+}
+
+.ProductItem {
+	visibility: visible !important;
+}
+
+.loaded {
+	padding: 40px 0px;
+	font-size: 24px;
+	height: 20px;
+	width: 100%;
+	text-align: center;
+}
